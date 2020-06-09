@@ -1,5 +1,5 @@
 # portfolio website
-## Project Title:
+## Project Objective:
 To build a portfolio website using HTML and CSS
 ## Technologies used:
 HTML & CSS
